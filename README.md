@@ -21,6 +21,11 @@ A modern, interactive frontend web application built as a portfolio to showcase 
 
 ## 🚀 Getting Started
 
+You can access the website through the following cloudflare link:
+```bash
+https://aiadvancements-portfolio.pages.dev/
+```
+
 To run this project locally, ensure you have Node.js installed on your machine.
 
 ### 1. Clone or Download the repository
