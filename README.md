@@ -52,4 +52,4 @@ The application should now be accessible at `http://localhost:5173`.
 - `src/index.css`: A comprehensive master stylesheet driving the entire atomic, responsive design system.
 
 ---
-*Created as a demonstration of frontend capabilities in modern web ecosystems combined with AI analytical research.*
+*Created as a demonstration of frontend capabilities in modern web ecosystems combined with AI analytical research. Using AI.*
